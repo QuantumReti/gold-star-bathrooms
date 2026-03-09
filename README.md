@@ -7,7 +7,7 @@
 Bathroom renovation company specialising in full bathroom redesigns and installations.
 
 ## Tech Stack
-- Platform: Duda
+- Platform: Framer
 - Hosting: Sun State Digital
 - CRM: GoHighLevel
 
